@@ -2,4 +2,3 @@
 
 * Guason
 * Pinguino
-* Capitán America
